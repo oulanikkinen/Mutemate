@@ -11,10 +11,13 @@ Extension is not published, because of the mandatory developer registration fee 
 Following photos will demostrate the usage:
 
 What the options page looks like:
+
 ![The options page](./optionspage.png)
 
 What the popup looks like on chrome:
+
 ![The toolbar popup](./defaultpopup.png)
 
 What the popup looks like when you save current site as trusted:
+
 ![The toolbar popup when the current site is trusted](./trustedpopup.png)
